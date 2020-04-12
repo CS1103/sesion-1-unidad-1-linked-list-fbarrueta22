@@ -1,0 +1,3 @@
+/home/fbarrueta/CLionProjects/sesion-1-unidad-1-linked-list-fbarrueta22/[LAB]S1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fbarrueta/CLionProjects/sesion-1-unidad-1-linked-list-fbarrueta22/[LAB]S1/cmake-build-debug/CMakeFiles/_LAB_S1.dir
+/home/fbarrueta/CLionProjects/sesion-1-unidad-1-linked-list-fbarrueta22/[LAB]S1/cmake-build-debug/CMakeFiles/edit_cache.dir

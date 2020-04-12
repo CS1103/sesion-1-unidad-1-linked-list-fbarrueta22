@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fbarrueta/CLionProjects/sesion-1-unidad-1-linked-list-fbarrueta22/[LAB]S1/linked_list.h
+cstddef
+-
+cctype
+-
+
+/home/fbarrueta/CLionProjects/sesion-1-unidad-1-linked-list-fbarrueta22/[LAB]S1/main.cpp
+iostream
+-
+cassert
+-
+string
+-
+linked_list.h
+/home/fbarrueta/CLionProjects/sesion-1-unidad-1-linked-list-fbarrueta22/[LAB]S1/linked_list.h
+
